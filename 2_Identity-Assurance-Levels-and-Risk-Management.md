@@ -14,10 +14,10 @@ NIST SP 800-63-3 includes a sample process flow for selection of identity assura
 
 **Figure 2:** Selecting an IAL
 
-**IAL 1:** There is no requirement of proof for an applicant’s identity for IAL1 and any attributes that are provided in the authentication process are either self-asserted, or should be treated as self-asserted.
+**IAL 1:** There is no requirement of proof for an applicant’s identity and any attributes that are provided in the authentication process are either self-asserted, or should be treated as self-asserted.
 
-**IAL 2:** For IAL2, identity proofing is required with evidence that supports real-world existence of the claimed identity and verifies the association between the applicant and the real-world identity. At IAL2, identity proofing can be done in person or remotely and attributes may be asserted by CSPs to RPs for verification in support of pseudonymous identity.
+**IAL 2:** Identity proofing is required with evidence that supports real-world existence of the claimed identity and verifies the association between the applicant and the real-world identity. Identity proofing can be done in person or remotely and attributes may be asserted by agencies to RPs for verification in support of pseudonymous identity.
 
-**IAL 3:** Identity proofing is required to be done in person in IAL3; attributes must be verified by an authorized and trained representative of the CSP, and CSPs may assert attributes to RPs for verification in support of pseudonymous identity.
+**IAL 3:** Identity proofing is required to be done in person; attributes must be verified by an authorized and trained representative of the agency, and agencies may assert attributes to RPs for verification in support of pseudonymous identity.
 
 In some system architectures, a single IAL for the entire system may not be sufficient to effectively mitigate risk. In these instances  proper course of action would be to identify and isolate components of the system and determine individual component assurance levels. Similarly, users and operators of a systems may have varying levels of access and authorization requirements necessitating different IALs based on priveleges, access levels, or authorizations. Agencies should consider the selecetion of IALs based on the context of specific systems, applications, and user bases - rather than attempting to implement a general set of proofing controls. 
