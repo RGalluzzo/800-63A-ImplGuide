@@ -23,7 +23,7 @@ Table 2 provides examples of evidence from each category of strength defined in 
 
 **Table 2:** Examples of Identity Evidence
 
-Please note that while examples of unacceptable and weak evidence are presented here for the sake of completeness, agenciesah should nevertheless be careful in requiring such documents as identity evidence. Moreover, agencies are cautioned to review guidance on international or common names and the event of a name change while considering evidence for strength. An example selection of evidence documents for an agency to consider in an IAL2 process are shown in the following figure.
+Please note that while examples of unacceptable and weak evidence are presented here for the sake of completeness, agencies should nevertheless be careful in requiring such documents as identity evidence. Moreover, agencies are cautioned to review guidance on international or common names and the event of a name change while considering evidence for strength. An example selection of evidence documents for an agency to consider in an IAL2 process are shown in the following figure.
 
 ![Figure 3: Selecting Evidence](media/workflow-1-evidence-selection.png)
 
